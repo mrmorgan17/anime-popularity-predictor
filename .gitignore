@@ -209,3 +209,7 @@ venv/
 *.csv
 *.json
 .env
+data/raw/
+models/*.pkl
+*.h5
+__pycache__/
